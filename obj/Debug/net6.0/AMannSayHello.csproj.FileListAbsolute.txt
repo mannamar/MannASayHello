@@ -1,0 +1,15 @@
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/bin/Debug/net6.0/AMannSayHello
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/bin/Debug/net6.0/AMannSayHello.deps.json
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/bin/Debug/net6.0/AMannSayHello.runtimeconfig.json
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/bin/Debug/net6.0/AMannSayHello.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/bin/Debug/net6.0/AMannSayHello.pdb
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.csproj.AssemblyReference.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.AssemblyInfoInputs.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.AssemblyInfo.cs
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.csproj.CoreCompileInputs.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/refint/AMannSayHello.dll
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.pdb
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/AMannSayHello.genruntimeconfig.cache
+/Users/amardeepmann/Desktop/CleanUp/Codestack/level1/assignments/AMannSayHello/obj/Debug/net6.0/ref/AMannSayHello.dll
