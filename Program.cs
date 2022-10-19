@@ -17,6 +17,6 @@ while (playAgain) {
   if (userName.ToLower() == "exit") {
     playAgain = false;
   } else {
-    Console.WriteLine("\nGood day to you, " + userName + ". Blessed be the fruit!\n");
+    Console.WriteLine("\nTop of the day to you, " + userName + ". Blessed be the fruit!\n");
   }
 }
